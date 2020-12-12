@@ -15,7 +15,7 @@ I would wrap this up as an EXE and maybe have a textbox for the key but I don't 
 
 ## Running the script
 
-Download the script [here](/Disable_Double_Tap_To_Dodge.ps1).
+Download the script [here](https://raw.githubusercontent.com/samuelzamvil/Cyberpunk-Disable-Double-Tap-to-Dodge/master/Disable_Double_Tap_To_Dodge.ps1).
 
 1. Open up PowerShell, there are a number of ways to do this but the easier method is hitting "Win" + "X" on your keyboard and selecting PowerShell.
     * Please note you may need to run as Administrator depending on where Cyberpunk is installed.
